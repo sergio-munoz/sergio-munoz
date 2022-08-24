@@ -1,7 +1,8 @@
-### Sergio Munoz
+## Sergio Munoz
+
 [![wakatime](https://wakatime.com/badge/user/1e0e8b49-a94f-431f-8ca2-93081dfb4c8b.svg)](https://wakatime.com/@1e0e8b49-a94f-431f-8ca2-93081dfb4c8b)
 [![github](https://img.shields.io/github/followers/sergio-munoz?style=social)](https://img.shields.io/github/followers/sergio-munoz?style=social)
-[![github](https://img.shields.io/github/stars/sergio-munoz?style=social)](https://img.shields.io/github/stars/sergio-munoz?style=social)
+[![githuba](https://img.shields.io/github/stars/sergio-munoz?style=social)](https://img.shields.io/github/stars/sergio-munoz?style=social)
 
 - 🔭 Working at [![github](https://img.shields.io/github/stars/pubnub?label=PubNub)](https://img.shields.io/github/stars/pubnub?label=PubNub) as a Solution Architect
 - 💬 Ask me about Pubnub, AWS, Blockchain, Virtual Spaces or anything tech related
