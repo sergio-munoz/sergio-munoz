@@ -4,16 +4,20 @@
 [![github](https://img.shields.io/github/followers/sergio-munoz?style=social)](https://img.shields.io/github/followers/sergio-munoz?style=social)
 [![githuba](https://img.shields.io/github/stars/sergio-munoz?style=social)](https://img.shields.io/github/stars/sergio-munoz?style=social)
 
-- 🔭 Working at [![github](https://img.shields.io/github/stars/pubnub?label=PubNub)](https://img.shields.io/github/stars/pubnub?label=PubNub) as a Solution Architect
-- 💬 Ask me about Pubnub, AWS, Blockchain, Virtual Spaces or anything tech related
-- 📫 Send me an email to sergio.munoz@pubnub.com
-- 😄 My pronouns are He/Him
-- 👯 My Alter-ego is @sdmunozsierra
-- ⚡ Fun fact: I bike my dog
+- 🔭 Working at [![github](https://img.shields.io/github/stars/pubnub?label=PubNub)](https://img.shields.io/github/stars/pubnub?label=PubNub) as a Solution Architect.
+- 💬 Ask me about Pubnub, SA, AWS, Blockchain, Virtual Spaces or anything Tech!
+- 📫 Send me an email to sergio.munoz@pubnub.com.
+- 😄 My pronouns are He/Him.
+- 👯 My Alter-ego is @sdmunozsierra.
+- ⚡ Fun fact: I bike my dog.
+
+Checkout [PubNub Awesome SA](https://github.com/stars/sergio-munoz/lists/awesome-pubnub-sa) Github Repositories. 
 
 #### Do you want to implement PubNub in your organization?
 
-Schedule a call with me on [Calendly](https://calendly.com/pubnub-sergio/pubnub-discovery-call)
+Schedule a call with me on [Calendly](https://calendly.com/pubnub-sergio/pubnub-discovery-call).
+
+
 
 <!---
 ✨ 
