@@ -15,9 +15,7 @@ Checkout [PubNub Awesome SA](https://github.com/stars/sergio-munoz/lists/awesome
 
 #### Do you want to implement PubNub in your organization?
 
-Schedule a call with me on [Calendly](https://calendly.com/pubnub-sergio/pubnub-discovery-call).
-
-
+Send me an email!
 
 <!---
 ✨ 
